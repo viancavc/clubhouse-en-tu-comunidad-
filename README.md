@@ -98,3 +98,7 @@ No solo queremos aprender tecnología, sino compartirla y utilizarla para genera
 **Desarrollado por:** Rincón Clubhouse La Chorrera  
 **Coordinación:** Vianca Cuevas  
 **Ubicación:** La Chorrera, Panamá Oeste.
+
+## 12. Primer taller STEAM
+
+Nuestra primera experiencia estará enfocada en acercar actividades de programación, robótica y creatividad digital a jóvenes de comunidades de La Chorrera.
